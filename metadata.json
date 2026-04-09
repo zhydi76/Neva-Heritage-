@@ -1,0 +1,5 @@
+{
+  "name": "Neva Heritage Barbershop",
+  "description": "Premium barbershop in the heart of Saint Petersburg, offering classic cuts and modern grooming services.",
+  "requestFramePermissions": ["camera"]
+}
